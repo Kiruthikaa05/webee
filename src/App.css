@@ -1,0 +1,6 @@
+*{
+    color: azure;
+}
+::-webkit-scrollbar{
+    display: none;
+}
